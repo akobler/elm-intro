@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1333px" height="152px" viewBox="0 0 1333 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>parser-combinator</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="157" y="56" width="72" height="62" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="62" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="418" y="0" width="443" height="152" rx="8"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="443" height="152" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="1045" y="52" width="72" height="62" rx="8"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="62" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="630" y="58" width="72" height="62" rx="8"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="72" height="62" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="194.5" cy="75.5" rx="193.5" ry="63.5"></ellipse>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-1"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-3"></use>
+        <text id="ParserFn" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="161" y="90">ParserFn</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="317" cy="82.5" rx="61" ry="23.5"></ellipse>
+        <path d="M117.5,83.5 L156.5,83.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M156.5,83.5 L145.7,80.5 L145.7,86.5 L156.5,83.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M229.5,82.5 L255.5,82.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M255.5,82.5 L244.7,79.5 L244.7,85.5 L255.5,82.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M390.5,74.5 L416.5,74.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M416.5,74.5 L405.7,71.5 L405.7,77.5 L416.5,74.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M861.5,71.5 L887.5,71.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M887.5,71.5 L876.7,68.5 L876.7,74.5 L887.5,71.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="67.5" cy="84" rx="49.5" ry="31"></ellipse>
+        <text id="ParserResult-a" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="265" y="88">ParserResult a</tspan>
+        </text>
+        <text id="List-Token" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="32.8427734" y="90">List Token</tspan>
+        </text>
+        <text id="Parser-a" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="194" y="34">Parser a</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="1110.5" cy="71.5" rx="221.5" ry="63.5"></ellipse>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-5"></use>
+        <text id="ParserFn" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="1049" y="86">ParserFn</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="1219.5" cy="78.5" rx="75.5" ry="23.5"></ellipse>
+        <path d="M1005.5,79.5 L1044.5,79.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M1044.5,79.5 L1033.7,76.5 L1033.7,82.5 L1044.5,79.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M1117.5,78.5 L1143.5,78.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M1143.5,78.5 L1132.7,75.5 L1132.7,81.5 L1143.5,78.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="955.5" cy="80" rx="49.5" ry="31"></ellipse>
+        <text id="ParserResult-(a,-b)" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="1153" y="84">ParserResult (a, b)</tspan>
+        </text>
+        <text id="List-Token" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="920.842773" y="86">List Token</tspan>
+        </text>
+        <text id="Parser-(a,-b)" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="1051" y="30">Parser (a, b)</tspan>
+        </text>
+        <text id="and" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="429" y="78">and</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="667.5" cy="77.5" rx="193.5" ry="63.5"></ellipse>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-7"></use>
+        <text id="ParserFn" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="634" y="92">ParserFn</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" transform="translate(791.514899, 84.203694) rotate(2.000000) translate(-791.514899, -84.203694) " cx="791.514899" cy="84.2036937" rx="62.509727" ry="23.5"></ellipse>
+        <path d="M590.5,85.5 L629.5,85.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M629.5,85.5 L618.7,82.5 L618.7,88.5 L629.5,85.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M702.5,84.5 L728.5,84.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M728.5,84.5 L717.7,81.5 L717.7,87.5 L728.5,84.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="540.5" cy="86" rx="49.5" ry="31"></ellipse>
+        <text id="ParserResult-b" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="738" y="90">ParserResult b</tspan>
+        </text>
+        <text id="List-Token" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="505.842773" y="92">List Token</tspan>
+        </text>
+        <text id="Parser-b" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="667" y="36">Parser b</tspan>
+        </text>
+    </g>
+</svg>

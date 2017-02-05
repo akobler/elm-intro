@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="591px" height="266px" viewBox="0 0 591 266" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>andThen</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="320" y="191" width="106" height="62" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106" height="62" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="120" y="20" width="37" height="62" rx="8"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37" height="62" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="120" y="193" width="37" height="62" rx="8"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37" height="62" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="424" y="22" width="37" height="62" rx="8"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37" height="62" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-1"></use>
+        <text id="andThen-fnB" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="327" y="225">andThen fnB</tspan>
+        </text>
+        <path d="M286.5,217.5 L318.5,217.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M318.5,217.5 L307.7,214.5 L307.7,220.5 L318.5,217.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M426.5,219.5 L458.5,219.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M458.5,219.5 L447.7,216.5 L447.7,222.5 L458.5,219.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="236.5" cy="46.5" rx="49.5" ry="45.5"></ellipse>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="236.5" cy="56.4104004" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Box" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="223.13623" y="22">Box</tspan>
+        </text>
+        <text id="Type2" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="218.681152" y="62">Type2</tspan>
+        </text>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-3"></use>
+        <text id="fnA" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="126" y="54">fnA</tspan>
+        </text>
+        <path d="M82.5,47.5 L118.5,47.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M118.5,47.5 L107.7,44.5 L107.7,50.5 L118.5,47.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M297.444444,104 L297.444444,160.5" id="Line" stroke="#CF4848" stroke-width="3" stroke-linecap="square" fill="#CF4848"></path>
+        <path id="Line-decoration-1" d="M297.444444,160.5 L300.444444,149.7 L294.444444,149.7 L297.444444,160.5 Z" stroke="#CF4848" stroke-width="3" stroke-linecap="square" fill="#CF4848"></path>
+        <path d="M157.5,46.5 L186.5,46.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M186.5,46.5 L175.7,43.5 L175.7,49.5 L186.5,46.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="41.5" cy="48.4104004" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Type1" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="23.6811523" y="54">Type1</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="236.5" cy="219.5" rx="49.5" ry="45.5"></ellipse>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="236.5" cy="229.4104" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Box" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="223.13623" y="197">Box</tspan>
+        </text>
+        <text id="Type2" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="218.681152" y="235">Type2</tspan>
+        </text>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-5"></use>
+        <text id="fnA" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="126" y="227">fnA</tspan>
+        </text>
+        <path d="M82.5,220.5 L118.5,220.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M118.5,220.5 L107.7,217.5 L107.7,223.5 L118.5,220.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M157.5,219.5 L186.5,219.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M186.5,219.5 L175.7,216.5 L175.7,222.5 L186.5,219.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="41.5" cy="221.4104" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Type1" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="23.6811523" y="227">Type1</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="540.5" cy="48.5" rx="49.5" ry="45.5"></ellipse>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="540.5" cy="58.4104004" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Box" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="527.13623" y="24">Box</tspan>
+        </text>
+        <text id="Type3" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="522.681152" y="64">Type3</tspan>
+        </text>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-7"></use>
+        <text id="fnB" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="430" y="56">fnB</tspan>
+        </text>
+        <path d="M386.5,49.5 L422.5,49.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M422.5,49.5 L411.7,46.5 L411.7,52.5 L422.5,49.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M461.5,48.5 L490.5,48.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M490.5,48.5 L479.7,45.5 L479.7,51.5 L490.5,48.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="509.5" cy="219.5" rx="49.5" ry="45.5"></ellipse>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="509.5" cy="229.4104" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Box" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="496.13623" y="195">Box</tspan>
+        </text>
+        <text id="Type3" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="491.681152" y="235">Type3</tspan>
+        </text>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="345.5" cy="50.4104004" rx="40.5" ry="18.4104004"></ellipse>
+        <text id="Type2" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="327.681152" y="56">Type2</tspan>
+        </text>
+    </g>
+</svg>

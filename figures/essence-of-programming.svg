@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="322px" height="273px" viewBox="0 0 322 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>essence-of-programming</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="281" height="62" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="281" height="62" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="107" width="38" height="62" rx="8"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="38" height="62" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="52" y="107" width="66" height="62" rx="8"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="62" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="231" y="107" width="50" height="62" rx="8"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="62" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="139" y="107" width="38" height="62" rx="8"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="38" height="62" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="193" y="107" width="23" height="62" rx="8"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="23" height="62" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="0" y="211" width="281" height="62" rx="8"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="281" height="62" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-1"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-3"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-5"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-7"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-9"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-12)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-11"></use>
+        <use id="Rectangle" stroke="#979797" mask="url(#mask-14)" stroke-width="2" fill-opacity="0.453832654" fill="#4990E2" xlink:href="#path-13"></use>
+        <text id="huge-problem" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="85" y="35">huge problem</tspan>
+        </text>
+        <text id="great-solution" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="83" y="246">great solution</tspan>
+        </text>
+        <text id="chop-to-solvable-chu" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="147" y="91">chop to solvable chunks</tspan>
+        </text>
+        <text id="combine-chunks" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="147" y="197">combine chunks</tspan>
+        </text>
+        <path d="M135.444444,72 L135.444444,95.5" id="Line" stroke="#CF4848" stroke-width="3" stroke-linecap="square" fill="#CF4848"></path>
+        <path id="Line-decoration-1" d="M135.444444,95.5 L138.444444,84.7 L132.444444,84.7 L135.444444,95.5 Z" stroke="#CF4848" stroke-width="3" stroke-linecap="square" fill="#CF4848"></path>
+        <path d="M135.444444,178 L135.444444,201.5" id="Line" stroke="#CF4848" stroke-width="3" stroke-linecap="square" fill="#CF4848"></path>
+        <path id="Line-decoration-1" d="M135.444444,201.5 L138.444444,190.7 L132.444444,190.7 L135.444444,201.5 Z" stroke="#CF4848" stroke-width="3" stroke-linecap="square" fill="#CF4848"></path>
+    </g>
+</svg>

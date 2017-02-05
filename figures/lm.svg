@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="681px" height="168px" viewBox="0 0 681 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>lm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="13" cy="117" r="9"></circle>
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="232" cy="40" r="9"></circle>
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="371" cy="101" r="9"></circle>
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="459" cy="103" r="9"></circle>
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="568" cy="102" r="9"></circle>
+        <ellipse id="Oval" stroke="#979797" fill="#FC9595" cx="567.5" cy="102.5" rx="5.5" ry="6.5"></ellipse>
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="121" cy="41" r="9"></circle>
+        <circle id="Oval" stroke="#979797" fill="#FC9595" cx="121" cy="41" r="9"></circle>
+        <path d="M21.5,109.5 L107.5,50.5" id="Line" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path id="Line-decoration-1" d="M107.5,50.5 L96.8971646,54.1359154 L100.291453,59.0835217 L107.5,50.5 Z" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path d="M136.5,40.5 L215.5,40.5" id="Line" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path id="Line-decoration-1" d="M215.5,40.5 L204.7,37.5 L204.7,43.5 L215.5,40.5 Z" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path d="M251.5,40.5 L359.5,93.5" id="Line" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path id="Line-decoration-1" d="M359.5,93.5 L351.126198,86.0488627 L348.48289,91.435227 L359.5,93.5 Z" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path d="M385.5,103.5 L449.5,103.5" id="Line" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path id="Line-decoration-1" d="M449.5,103.5 L438.7,100.5 L438.7,106.5 L449.5,103.5 Z" stroke="#757575" stroke-linecap="square" fill="#757575"></path>
+        <path d="M464.5,94.5 C464.5,94.5 497.220052,81.2382812 511.5,81.2382812 C525.779948,81.2382812 558.5,94.5 558.5,94.5" id="Line" stroke="#757575" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M558.5,94.5 L547.7,91.5 L547.7,97.5 L558.5,94.5 Z" stroke="#757575" stroke-linecap="square"></path>
+        <path d="M472,127 C472,127 502.283452,109 515.5,109 C528.716548,109 559,127 559,127" id="Line" stroke="#757575" stroke-linecap="square" transform="translate(515.500000, 118.000000) scale(1, -1) translate(-515.500000, -118.000000) "></path>
+        <path id="Line-decoration-1" d="M559,127 L548.2,124 L548.2,130 L559,127 Z" stroke="#757575" stroke-linecap="square"></path>
+        <text id="hi" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="45" y="76">hi</tspan>
+        </text>
+        <text id="I" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="177" y="33">I</tspan>
+        </text>
+        <text id="like" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="293" y="53">like</tspan>
+        </text>
+        <text id="a" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="407" y="92">a</tspan>
+        </text>
+        <text id="coffee" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="497" y="74">coffee</tspan>
+        </text>
+        <text id="please" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="622" y="95">please</tspan>
+        </text>
+        <text id="tea" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="493" y="144">tea</tspan>
+        </text>
+        <path d="M574.910156,110.371094 C576.490299,112.673959 584.584725,127.490034 590.84375,128.695312 C616.745337,133.683089 624.810684,99.1820564 608.902344,84.9804688 C600.164664,77.1802256 586.430915,75.6526777 578.382812,84.2421875 C576.754034,85.9805357 575.576658,92.1146793 574.296875,90.1054688 C572.382247,87.0995767 571.776759,79.5397843 575.339844,79.4648438 C578.887303,79.3902318 573.549436,87.8707749 576.339844,90.0625 C577.13238,90.6849971 604.547312,94.0992906 578.550781,88.6328125" id="Path-2" stroke="#979797"></path>
+        <path d="M24.515625,116.889381 C46.1654349,117.903489 82.6405498,130.039093 99.7977262,118.690746 C109.202561,112.470064 128.825184,62.7136797 125.538822,50.7165492 C124.68346,47.5939808 117.915781,60.2500536 118.10033,57.0193019 C118.306687,53.4067823 122.231889,50.459217 125.62854,49.145921 C127.529901,48.4107706 129.547573,50.6216222 131.019815,52.0240566 C132.293179,53.2370418 132.683688,55.1140382 133.515625,56.659029" id="Path-3" stroke="#979797"></path>
+        <text id="ε" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="119" y="107">ε</tspan>
+        </text>
+        <text id="ε" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="205" y="119">ε</tspan>
+        </text>
+        <path d="M131.371094,45.9296875 C141.658854,53.7864583 152.855091,60.5783468 162.234375,69.5 C187.542876,93.5736575 159.828749,81.0123767 188.28125,94.8515625 C224.222419,112.333207 262.03627,106.443969 299.410156,104.925781 C359.509916,102.484432 332.391776,111.489316 360.058594,100.796875" id="Path-4" stroke="#979797"></path>
+        <path d="M360.058594,100.796875 C353.444501,100.796875 357.443624,101.336245 348.542969,97.0625" id="Path-6" stroke="#979797"></path>
+        <path d="M359.265625,100.1875 L351.140625,111.910156" id="Path-7" stroke="#979797"></path>
+    </g>
+</svg>

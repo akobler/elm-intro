@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="704px" height="282px" viewBox="0 0 704 282" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>adt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F6A623" cx="354.5" cy="155" rx="123.5" ry="45"></ellipse>
+        <text id="Algebraic-Data-Types" font-family="Calibri" font-size="24" font-weight="normal" fill="#000000">
+            <tspan x="254.195312" y="161">Algebraic Data Types</tspan>
+        </text>
+        <text id="Product-Type" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="0.61328125" y="17">Product Type</tspan>
+        </text>
+        <text id="holds-values,-each-h" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="1" y="62">holds values, each has its </tspan>
+            <tspan x="1" y="84">own type</tspan>
+            <tspan x="1" y="106"></tspan>
+            <tspan x="1" y="128" font-family="Calibri-Bold, Calibri" font-weight="bold">Record</tspan>
+            <tspan x="1" y="150">fields adressed by name</tspan>
+            <tspan x="1" y="172">(-&gt; class)</tspan>
+            <tspan x="1" y="194"></tspan>
+            <tspan x="1" y="216" font-family="Calibri-Bold, Calibri" font-weight="bold">Tuple</tspan>
+            <tspan x="41.7900391" y="216"></tspan>
+            <tspan x="1" y="238">fields adressed by index</tspan>
+            <tspan x="1" y="260">(-&gt; pair, triple, n-tuple)</tspan>
+        </text>
+        <text id="holds-exactly-one-va" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="528.566904" y="62">holds exactly one value, </tspan>
+            <tspan x="515.10206" y="84">value is out of  a given list</tspan>
+            <tspan x="702.476083" y="106" font-family="Calibri-Bold, Calibri" font-weight="bold"></tspan>
+            <tspan x="601.059091" y="128" font-family="Calibri-Bold, Calibri" font-weight="bold">Tagged Union</tspan>
+            <tspan x="571.369638" y="150">(-&gt; variant, enum)</tspan>
+        </text>
+        <text id="Sum-Type" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="631.785654" y="17">Sum Type</tspan>
+        </text>
+        <path d="M702.818237,22 C388.700287,22 398.029327,111.871094 398.029327,111.871094" id="Path-2" stroke="#979797"></path>
+        <path d="M304.818237,22 C-9.29971321,22 0.0293269437,111.871094 0.0293269437,111.871094" id="Path-2" stroke="#979797" transform="translate(152.409118, 66.935547) scale(-1, 1) translate(-152.409118, -66.935547) "></path>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="415px" height="139px" viewBox="0 0 415 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>inside-fp-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="214.5" cy="28.4104004" rx="33.5" ry="18.4104004"></ellipse>
+        <path d="M46.5,96.5 L180.5,35.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M180.5,35.5 L169.427612,37.2441966 L171.9135,42.704999 L180.5,35.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M50.5,106.5 L339.5,106.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M339.5,106.5 L328.7,103.5 L328.7,109.5 L339.5,106.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path d="M247.5,35.5 L342.5,95.5" id="Line" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <path id="Line-decoration-1" d="M342.5,95.5 L334.970699,87.196409 L331.766741,92.2693424 L342.5,95.5 Z" stroke="#979797" stroke-linecap="square" fill="#979797"></path>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="30.5" cy="106.4104" rx="18.5" ry="18.4104004"></ellipse>
+        <ellipse id="Oval" stroke="#979797" fill-opacity="0.45" fill="#F5A623" cx="373.5" cy="106.4104" rx="33.5" ry="18.4104004"></ellipse>
+        <text id="Int" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="20" y="111">Int</tspan>
+        </text>
+        <text id="String" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="194" y="32">String</tspan>
+        </text>
+        <text id="toString" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="58" y="52">toString</tspan>
+        </text>
+        <text id="addIdLabel" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="292" y="52">addIdLabel</tspan>
+        </text>
+        <text id="renderId" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="157" y="124">renderId</tspan>
+        </text>
+        <text id="String" font-family="Calibri" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="353" y="110">String</tspan>
+        </text>
+    </g>
+</svg>
